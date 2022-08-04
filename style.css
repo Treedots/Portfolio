@@ -1,0 +1,32 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.bg-color-0{
+  background-color: #F0EBE3;
+}
+.bg-color-1{
+  background-color: #E4DCCF;
+}
+.bg-color-2{
+  background-color: #7D9D9C;
+}
+.bg-color-3{
+  background-color: #576F72;
+}
+.fnt-color-0{
+  color: #F0EBE3;
+}
+.fnt-color-1{
+ color: #E4DCCF;
+}
+.fnt-color-2{
+  color: #7D9D9C;
+}
+.fnt-color-3{
+  color: #576F72;
+}
+.profile{
+  margin: 0px auto;
+}
